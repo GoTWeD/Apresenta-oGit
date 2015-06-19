@@ -19,6 +19,13 @@ public class ApresentacaoGit {
         
         
         System.out.println("tati");
+        System.out.println("você tá me irritando");
+        System.out.println("Se liga então Tati!!!");
+        System.out.println("fomeee fala p esse mala ai pqp desde 08:00 falando sem parar");
+        System.out.println("Diz que funcionou tati!!!!!!");
+        System.out.println("funcionou sim  :) ");
+        System.out.println("Você fala pouco tô ficando sem assunto shuauhsauhs");
+        System.out.println("Commita por favor!");
     }
     
 }
